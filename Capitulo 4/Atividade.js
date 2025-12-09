@@ -97,3 +97,5 @@ idade no console. */
 let idadeTexto = prompt();
 let idade = Number(idadeTexto);
 console.log(idade);
+
+module.exports = {};
