@@ -1,39 +1,42 @@
-# 📘 Atividades de Algoritmo — IFPI Campus Picos
+# 📘 Algorithm Activities — IFPI Campus Picos
 
-Bem-vindo(a) ao repositório oficial das atividades desenvolvidas na disciplina de **Algoritmo**, no **IFPI – Campus Picos**.  
-Este espaço reúne exercícios, práticas guiadas e pequenos projetos feitos em **JavaScript**, acompanhando o conteúdo trabalhado em sala.
-
----
-
-## 🚀 Objetivo do Repositório
-Este repositório tem como finalidade:
-- Organizar as atividades feitas ao longo do curso;
-- Facilitar revisões e consultas futuras;
-- Servir como base para o desenvolvimento lógico e estrutural em programação;
-- Registrar a evolução do aprendizado em JavaScript.
+Welcome to the official repository for all coursework and activities developed for the **Algorithm** class at **IFPI – Campus Picos**.  
+This space includes exercises, guided practices, and small projects built using **JavaScript**, following the topics covered throughout the course.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- **JavaScript (ES6+)**
-- **VS Code** (ambiente principal)
-- **Git & GitHub** para versionamento
+## 🚀 Repository Purpose
+This repository is intended to:
+
+- Organize all class activities in one place;  
+- Facilitate future review and consultation;  
+- Support the development of logical thinking and problem-solving skills;  
+- Track my progress in learning JavaScript and algorithmic reasoning.
 
 ---
 
-## 📚 Sobre a Disciplina
-A disciplina de **Algoritmo** busca desenvolver:
-- Raciocínio lógico;
-- Resolução de problemas;
-- Construção de soluções passo a passo;
-- Capacidade de transformar lógica em código real.
+## 🛠️ Technologies Used
+- **JavaScript (ES6+)**  
+- **Visual Studio Code**  
+- **Git & GitHub** for version control  
 
 ---
 
-## 🤝 Contribuições
-Sinta-se livre para sugerir melhorias, correções ou novas maneiras de resolver os exercícios!
+## 📚 About the Course
+The **Algorithm** course focuses on:
+
+- Logical reasoning;  
+- Problem solving;  
+- Step-by-step construction of solutions;  
+- Translating logic into real, executable code.
 
 ---
 
-### ✨ Obrigado por visitar!  
-Este repositório representa minha jornada de aprendizagem rumo ao domínio da lógica e da programação.
+## 🤝 Contributions
+Feel free to suggest improvements, alternative solutions, or corrections.  
+Any feedback is welcome!
+
+---
+
+### ✨ Thanks for stopping by!  
+This repository represents my learning journey toward mastering logic and programming.
