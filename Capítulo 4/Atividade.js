@@ -56,13 +56,13 @@ em um programa simples que você escrever. */
 /* 8. Escreva um programa que solicite ao usuário seu nome e exiba-o
 no console. */
 
-let nome = prompt('digite seu nome: ');
+let nome1 = prompt('digite seu nome: ');
 console.log(nome);
 
 /* 9. Escreva um programa que peça ao usuário para digitar sua idade
 e exiba-a no console. */
 
-let idade = prompt('Digite sua idade: ');
+let idade2 = prompt('Digite sua idade: ');
 console.log(idade)
 
 
@@ -71,7 +71,7 @@ idade e em seguida imprima essas informações juntas em uma
 única linha. */ 
 
 let nome = prompt('digite seu nome: ')
-let idade = prompt('digite sua idade: ');
+let idade3 = prompt('digite sua idade: ');
 console.log('olá', + nome + idade)
 
 /* 11. Escreva um programa que solicite ao usuário um número e
