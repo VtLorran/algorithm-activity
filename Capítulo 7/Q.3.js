@@ -5,3 +5,4 @@ const livro = {
 }
 
 console.log(livro.titulo + ', ' + livro.autor);
+module.exports = {};

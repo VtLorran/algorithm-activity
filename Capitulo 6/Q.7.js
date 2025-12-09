@@ -10,3 +10,4 @@ function mostraridade() {
 }
 
 mostraridade();
+module.exports = {};

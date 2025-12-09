@@ -11,3 +11,4 @@ if (B > C &&
 } else {
     console.log("Valores nao aceitos");
 }
+module.exports = {};

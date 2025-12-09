@@ -7,5 +7,4 @@ const aluno = {
 
 aluno.notas.push(7, 9)
 console.log(aluno.notas)
-
-    
+module.exports = {};

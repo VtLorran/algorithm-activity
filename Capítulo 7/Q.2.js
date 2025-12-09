@@ -5,3 +5,4 @@ const carro = {
 }
 
 console.log(carro.marca);
+module.exports = {};

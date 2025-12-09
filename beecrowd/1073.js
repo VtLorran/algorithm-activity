@@ -12,3 +12,4 @@ if (5 < N < 2000) {
         console.log(`${i}^2 = ${conta}`);
     }
 }
+module.exports = {};

@@ -29,3 +29,4 @@ if (a + b <= c) {
     console.log(tipo);
     console.log(retangulo);
 }
+module.exports = {};

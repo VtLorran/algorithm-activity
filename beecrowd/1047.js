@@ -22,3 +22,4 @@ let horas = Math.floor(duracao/60);
 let minutos = duracao % 60;
 
 console.log(`O JOGO DUROU ${horas} HORA(S) E ${minutos} MINUTO(S)`);
+module.exports = {};

@@ -25,3 +25,4 @@ for (let i = 1; i <= T; i++) {
         console.log(`Caso #${i}: Raj trapaceou!`);
     }
 }
+module.exports = {};

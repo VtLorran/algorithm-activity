@@ -20,3 +20,4 @@ for (let i = 1; i <= 3; i++) {
 let media = CalcularMedia(nota1, nota2, nota3);
 ExibirResultado(nome, media);
 }
+module.exports = {};

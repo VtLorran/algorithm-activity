@@ -32,3 +32,4 @@ if (media >= 7.0) {
     
     console.log("Media final: " + mediaFinal.toFixed(1));
 }
+module.exports = {};

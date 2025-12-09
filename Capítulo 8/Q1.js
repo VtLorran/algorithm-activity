@@ -8,3 +8,4 @@ Quando funcionalidades são implementadas como módulos bem definidos (bibliotec
 
 3) Testabilidade, deploy independente e escalabilidade
 Módulos isolados são mais fáceis de testar automaticamente (unit tests e integração restrita) porque têm dependências controladas e interfaces claras. Além disso, em arquiteturas que adotam microserviços ou serviços desacoplados, cada módulo pode ser implantado e escalado independentemente: se o serviço de busca de produtos tiver muito tráfego, você escala só ele. Exemplo prático: no Atlant Hub você coloca o serviço de pesquisa e filtro como microserviço separado com sua própria base de dados de índices; escreve testes unitários e de contrato para a API desse serviço; e configura CI/CD para liberar atualizações dele sem reiniciar o sistema todo. Isso melhora disponibilidade e reduz tempo de entrega de novas versões. */
+module.exports = {};

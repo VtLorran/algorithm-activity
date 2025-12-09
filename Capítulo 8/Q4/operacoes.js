@@ -17,4 +17,4 @@ export function divisao(a,b) {
 export function exponenciacao(a,b) {
     return a**b;
 }
-
+module.exports = {};

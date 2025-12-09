@@ -11,3 +11,4 @@ users.usuarios[1].alterarEmail('cristiano@gmail.com')
 console.log(users.usuarios[1].nome)
 console.log(users.usuarios[1].email);
 console.log(users.usuarios[1].senha + '\n');
+module.exports = {};

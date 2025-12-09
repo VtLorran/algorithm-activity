@@ -34,3 +34,4 @@ function adivinhacao() {
 }
 
 adivinhacao();
+module.exports = {};

@@ -4,3 +4,4 @@ let arr = ['vermelho', 'verde'];
 let add = arr.unshift('azul' , 'amarelo');
 
 console.log(arr);
+module.exports = {};

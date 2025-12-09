@@ -8,3 +8,4 @@ const pessoas = [
 
 const pessoaEncontrada = pessoas.find((pessoa) => pessoa.idade > 18)
 console.log(pessoaEncontrada.nome);
+module.exports = {};

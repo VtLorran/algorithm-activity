@@ -9,3 +9,4 @@ const carros = [
 const carroPos2010 = carros.filter((carro) => {
   if (carro.ano > 2010) console.log(carro.nome);
 });
+module.exports = {};

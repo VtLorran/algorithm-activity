@@ -6,3 +6,4 @@ R = parseFloat(lines.shift());
 var A = n * (R*R);
 
 console.log(`A=${A.toFixed(4)}`);
+module.exports = {};

@@ -20,3 +20,4 @@ if (r === 1 && a === 1) {
         console.log("Jogador 2 ganha!");
     }
 }
+module.exports = {};

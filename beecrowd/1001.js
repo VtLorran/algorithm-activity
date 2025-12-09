@@ -6,3 +6,4 @@ let lines = input.split("\n");
 var X = A + B;
  // Recebam entradas no usuário dessa forma
  console.log(`X = ${X}`);
+module.exports = {};

@@ -26,4 +26,5 @@ let RS = NS - S;
 
 console.log(`Novo salario: ${NS.toFixed(2)}`); 
 console.log(`Reajuste ganho: ${RS.toFixed(2)}`); 
-console.log(`Em percentual: ${P} %`); 
+console.log(`Em percentual: ${P} %`);
+module.exports = {};

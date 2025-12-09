@@ -10,3 +10,4 @@ for(let i = 0; i < 5; i++) {
 for(let listas of lista) {
     console.log(listas)
 }
+module.exports = {};

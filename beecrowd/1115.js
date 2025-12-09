@@ -24,3 +24,4 @@ while (true) {
         console.log("quarto"); 
     } 
 }
+module.exports = {};

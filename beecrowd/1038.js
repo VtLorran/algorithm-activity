@@ -19,3 +19,4 @@ if(C == 1) {
 }
 
 console.log(`Total: R$ ${T.toFixed(2)}`);
+module.exports = {};

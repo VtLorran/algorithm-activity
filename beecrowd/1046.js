@@ -13,3 +13,4 @@ if (S > E) {
 }
 
 console.log(`O JOGO DUROU ${R} HORA(S)`);
+module.exports = {};

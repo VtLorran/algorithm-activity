@@ -5,3 +5,4 @@ const cadastro = () => {
 };
 
 cadastro();
+module.exports = {};

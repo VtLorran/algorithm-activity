@@ -31,3 +31,4 @@ if (A >= B + C) {
     }
     // Se nenhum lado for igual, não imprime nada (é escaleno, mas o problema não pede)
 }
+module.exports = {};

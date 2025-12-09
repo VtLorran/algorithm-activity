@@ -4,3 +4,4 @@ const cadastro = () => {
     console.log(nomes[0]);
 }
 cadastro();
+module.exports = {};

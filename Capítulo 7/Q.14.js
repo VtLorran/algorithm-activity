@@ -6,3 +6,4 @@ for(let i = 0; i < 5; i++) {
     lista.push(filmes)
     console.log(lista.join(', '));
 }
+module.exports = {};

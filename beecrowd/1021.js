@@ -40,3 +40,4 @@ for (let moeda of moedas) {
     console.log(`${qtd} moeda(s) de R$ ${moeda.toFixed(2)}`);
     centavos %= Math.round(moeda * 100);
 }
+module.exports = {};

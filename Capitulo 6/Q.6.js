@@ -9,3 +9,4 @@ function ExibirResultado(numero, resultado) {
 let numero = parseInt(prompt("Digite seu número: "));
 let resultado = quadrado(numero);
 ExibirResultado(numero, resultado);
+module.exports = {};

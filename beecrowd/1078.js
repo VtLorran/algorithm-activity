@@ -11,3 +11,4 @@ if ( 2 < N < 1000) {
         console.log(`${i} x ${N} = ${R}`);
     }
 }
+module.exports = {};

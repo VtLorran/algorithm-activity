@@ -28,5 +28,4 @@ function exibirResultado() {
 }
 
 exibirResultado();
-
-
+module.exports = {};

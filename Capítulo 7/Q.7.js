@@ -4,3 +4,4 @@ let numeros = [1, 2, 3, 4, 5];
 let remove = numeros.shift();
 console.log(numeros);
 console.log(remove)
+module.exports = {};

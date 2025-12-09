@@ -166,3 +166,4 @@ while (tentativas > 0 && !acertou) {
     
     tentativas--;
 }
+module.exports = {};

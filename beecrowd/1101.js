@@ -21,4 +21,4 @@ for (let i = 0; i < lines.length; i++) {
 
     console.log(sequencia + "Sum=" + soma);
 }
-
+module.exports = {};

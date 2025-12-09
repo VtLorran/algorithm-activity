@@ -10,3 +10,4 @@ const calculo = () => {
 }
 
 console.log(calculo());
+module.exports = {};

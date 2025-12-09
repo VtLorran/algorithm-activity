@@ -3,3 +3,4 @@
 let arr = [10, 20 ,30];
 arr.push(40, 50);
 console.log(arr);
+module.exports = {};

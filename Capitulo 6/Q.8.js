@@ -8,3 +8,4 @@ function testeEscopo() {
 }
 
 testeEscopo();
+module.exports = {};

@@ -34,3 +34,4 @@ Para novo projeto: comece ESM (mais compatível com o futuro, browser-friendly).
 Para biblioteca: publique ambos (ESM + CJS) ou use exports condicionais para não bloquear consumidores.
 
 Para monólitos legados: faça migração incremental, mantenha CI com testes, e use ferramentas de build que saibam resolver interop (esbuild/rollup/webpack). Monitore dependências que só existem em CJS antes de decidir migrar tudo. */
+module.exports = {};

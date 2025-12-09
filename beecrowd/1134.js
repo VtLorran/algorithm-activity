@@ -43,3 +43,4 @@ console.log(`MUITO OBRIGADO`);
 console.log(`Alcool: $(alcool)`);
 console.log(`Gasolina: $(gasolina)`);
 console.log(`Diesel: $(diesel)`);
+module.exports = {};

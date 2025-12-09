@@ -4,3 +4,4 @@ let frutas = ['maçã', 'banana'];
 let maisFrutas = ['laranja', 'pera'];
 let muitasFrutas = frutas.concat(maisFrutas);
 console.log(muitasFrutas);
+module.exports = {};

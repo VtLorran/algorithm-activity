@@ -35,3 +35,4 @@ function calculadora(){
 }
 
 calculadora();
+module.exports = {};

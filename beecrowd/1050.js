@@ -26,3 +26,4 @@ if(DDD ==  61) {
 }
 
 console.log(C);
+module.exports = {};

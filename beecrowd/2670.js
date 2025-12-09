@@ -15,3 +15,4 @@ let tempoAndar3 = A1 * 4 + A2 * 2 + A3 * 0;
 let minTempo = Math.min(tempoAndar1, tempoAndar2, tempoAndar3);
 
 console.log(minTempo);
+module.exports = {};

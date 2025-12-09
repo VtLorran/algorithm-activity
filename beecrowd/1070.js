@@ -13,3 +13,4 @@ while(contador < 6) {
     X+=2;
     contador++
 }
+module.exports = {};

@@ -3,3 +3,4 @@
 let animais = ['cachorro', 'gato', 'pássaro', 'peixe'];
 let arr = animais.slice(1);
 console.log(arr)
+module.exports = {};
